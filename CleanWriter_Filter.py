@@ -9,7 +9,7 @@ nlp_models = {
 }
 
 # Listă simplă de cuvinte indecente pe care să le filtreze strict
-BAD_WORDS = ["fuck", "shit", "pizda", "curva", "cazzo", "scheiß", "merda", "fick"]
+BAD_WORDS = ["fuck", "shit", "pizda", "curva", "cazzo", "scheiß", "merda", "fick", "shit", "whore", "ass", "cumt"]
 
 def clean_text(text, lang="en"):
     nlp = nlp_models.get(lang, nlp_models["en"])

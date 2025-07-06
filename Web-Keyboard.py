@@ -3,7 +3,7 @@ from langdetect import detect
 
 FILTERS = {
     "ro": {"sensibile": ["muie", "pula", "cur", "dracu", "rahat"], "alt": "(limbaj decent)"},
-    "en": {"sensibile": ["fuck", "shit", "bitch"], "alt": "(be polite)"},
+    "en": {"sensibile": ["fuck", "shit", "bitch", "ass", "whore"], "alt": "(be polite)"},
     "de": {"sensibile": ["scheiße", "fick"], "alt": "(höflich bleiben)"},
     "it": {"sensibile": ["cazzo", "merda"], "alt": "(usa parole gentili)"}
 }

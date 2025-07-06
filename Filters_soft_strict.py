@@ -1,7 +1,7 @@
 def clean_text(text, lang="română", mode="soft"):
     bad_words = {
         "română": ["pula", "muie", "cur", "dracu"],
-        "engleză": ["fuck", "shit", "bitch", "asshole"],
+        "engleză": ["fuck", "shit", "bitch", "asshole", "ass", "whore"],
         "germană": ["scheisse", "fick", "arsch"],
         "italiană": ["cazzo", "stronzo", "puttana"]
     }

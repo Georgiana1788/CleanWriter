@@ -5,7 +5,7 @@ import re
 # listă simplă de cuvinte vulgare (poți extinde)
 VULGAR_WORDS = {
     "română": ["pula", "cur", "muie", "căcat"],
-    "engleză": ["fuck", "shit", "bitch", "asshole"],
+    "engleză": ["fuck", "shit", "bitch", "asshole", "shit", "ass"],
     "germană": ["scheiße", "fick", "arschloch"],
     "italiană": ["cazzo", "stronzo", "merda"]
 }

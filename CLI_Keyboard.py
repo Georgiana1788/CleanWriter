@@ -11,7 +11,7 @@ FILTERS = {
         "alternative": ["(limbaj decent)"]
     },
     "en": {
-        "sensibile": ["fuck", "shit", "bitch"],
+        "sensibile": ["fuck", "shit", "bitch", "ass", "whore", "handicapated"],
         "alternative": ["(be polite)"]
     },
     "de": {

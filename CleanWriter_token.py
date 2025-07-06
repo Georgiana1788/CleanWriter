@@ -6,7 +6,7 @@ nlp = spacy.load("en_core_web_sm")
 # List of soft moral filters
 soft_bad_words = ["damn", "hell", "crap"]
 # List of strict offensive words
-strict_bad_words = ["fuck", "shit", "bitch", "asshole", "cunt"]
+strict_bad_words = ["fuck", "shit", "bitch", "asshole", "cunt", "whore", "ass", "cumt"]
 
 def clean_text(text):
     doc = nlp(text)
