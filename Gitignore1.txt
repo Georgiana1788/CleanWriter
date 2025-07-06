@@ -1,0 +1,28 @@
+# Fișiere Python generate automat
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fișiere de configurare ascunse / sistem
+.DS_Store
+Thumbs.db
+
+# Loguri (dacă vei salva ieșiri)
+*.log
+
+# Fisiere locale / secrete
+.env
+*.env
+
+# Fișiere editor (VS Code, PyCharm etc)
+.vscode/
+.idea/
+
+# Alte fișiere temporare
+*.bak
+*.tmp
+
+# Fișiere text cu rezultate de test
+output.txt
+test_output.txt

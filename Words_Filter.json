@@ -1,0 +1,18 @@
+{
+  "RO": {
+    "sensibile": ["muie", "pula", "cur", "drac", "mortii", "râh", "rahat"],
+    "alternative": ["...", "..."]
+  },
+  "EN": {
+    "sensibile": ["fuck", "shit", "bitch"],
+    "alternative": ["...", "..."]
+  },
+  "DE": {
+    "sensibile": ["scheiße", "fick"],
+    "alternative": ["..."]
+  },
+  "IT": {
+    "sensibile": ["cazzo", "merda"],
+    "alternative": ["..."]
+  }
+}
